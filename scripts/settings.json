@@ -1,0 +1,19 @@
+{
+    "eslint.autoFixOnSave": true,
+    "javascript.validate.enable": true,
+    "javascript.format.enable": false,
+    "prettier.eslintIntegration": true,
+    "editor.renderWhitespace": "all",
+    "editor.detectIndentation": true,
+    "files.trimTrailingWhitespace": true,
+    "window.zoomLevel": 1, //uses eslint-prettier as parser
+    "files.associations": {
+        "*.css": "postcss"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "prettier.singleQuote": true,
+    "debug.node.autoAttach": "on",
+    "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+    "editor.formatOnSave": false
+}
+

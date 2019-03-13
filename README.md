@@ -38,6 +38,7 @@ Use the [Makefile](./Makefile) to install everything [listed above](#package-ove
 
 ## Post-install
 
+* Setup SSH for Github `./scripts/git-add-key.sh`
 * `dotfiles dock` (set [Dock items](./macos/dock.sh))
 * `dotfiles macos` (set [macOS defaults](./macos/defaults.sh))
 * Mackup
