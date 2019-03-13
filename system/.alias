@@ -1,9 +1,13 @@
+# Load Git alias
+source ~/.dotfiles/runcom/.oh-my-zsh-aliases.sh
+
 # Shortcuts
 
 alias reload="source ~/.bash_profile"
 alias _="sudo"
 alias g="git"
 alias rr="rm -rf"
+alias la="ls -al"
 
 # Default options
 
